@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "882696350342",
+    "firebase_url": "https://income-manager.firebaseio.com",
+    "project_id": "income-manager",
+    "storage_bucket": "income-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882696350342:android:ee56d6d9fd9a9eef",
+        "android_client_info": {
+          "package_name": "com.example.sdvii.incomemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882696350342-d14jo9458pk94je55vcn0g1o3bm5bod0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sdvii.incomemanager",
+            "certificate_hash": "5a6f6ccf7ed60ee121272c592e311e846692eab5"
+          }
+        },
+        {
+          "client_id": "882696350342-9h3aime8jd1baolrd8nkkq1qeg3ddr2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6FBzKMElVDjsEXXVb7xQSXfbA_OkxfXo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882696350342-9h3aime8jd1baolrd8nkkq1qeg3ddr2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
